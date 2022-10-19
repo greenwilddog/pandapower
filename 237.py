@@ -9,3 +9,5 @@ xu = 4
 jiang = 5
 
 cp =6
+
+gujiu2 = 1
