@@ -11,3 +11,5 @@ jiang = 5
 cp =6
 
 gujiu2 = 1
+
+cp2 = 777
